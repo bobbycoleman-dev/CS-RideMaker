@@ -1,0 +1,15 @@
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-RideMaker/RideMaker/bin/Debug/net6.0/RideMaker
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-RideMaker/RideMaker/bin/Debug/net6.0/RideMaker.deps.json
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-RideMaker/RideMaker/bin/Debug/net6.0/RideMaker.runtimeconfig.json
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-RideMaker/RideMaker/bin/Debug/net6.0/RideMaker.dll
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-RideMaker/RideMaker/bin/Debug/net6.0/RideMaker.pdb
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-RideMaker/RideMaker/obj/Debug/net6.0/RideMaker.csproj.AssemblyReference.cache
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-RideMaker/RideMaker/obj/Debug/net6.0/RideMaker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-RideMaker/RideMaker/obj/Debug/net6.0/RideMaker.AssemblyInfoInputs.cache
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-RideMaker/RideMaker/obj/Debug/net6.0/RideMaker.AssemblyInfo.cs
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-RideMaker/RideMaker/obj/Debug/net6.0/RideMaker.csproj.CoreCompileInputs.cache
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-RideMaker/RideMaker/obj/Debug/net6.0/RideMaker.dll
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-RideMaker/RideMaker/obj/Debug/net6.0/refint/RideMaker.dll
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-RideMaker/RideMaker/obj/Debug/net6.0/RideMaker.pdb
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-RideMaker/RideMaker/obj/Debug/net6.0/RideMaker.genruntimeconfig.cache
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-RideMaker/RideMaker/obj/Debug/net6.0/ref/RideMaker.dll
